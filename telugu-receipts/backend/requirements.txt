@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-docx
+weasyprint
+fpdf2
+uharfbuzz
